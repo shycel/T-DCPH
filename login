@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINUX
+echo "  Welcome Back Master ------- Login And Enter Your Password 
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINU
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is ARIJ ARMAN with your love... 
+echo " 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
